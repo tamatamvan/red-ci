@@ -13,4 +13,4 @@ script:
 deploy:
   provider: gae
   keyfile: client-secret.json
-  project-id: red-ci
+  project: red-ci
